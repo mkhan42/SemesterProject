@@ -284,3 +284,4 @@ void rule8(string& state, int& step)
     cout << " | " << "Rule Used: 8";
     cout << " | " << "R Used: S -> e" << " | " << endl;
 }
+
